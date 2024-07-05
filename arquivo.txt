@@ -1,0 +1,11 @@
+hola mundo 
+
+O equivalente de touch é Echo, e o de Nano seria o editor de texto do Windows, o Notepad.  
+
+
+mkdir git
+cd git
+echo hola mundo > arquivo.txt
+
+git config --global user.name "francomasa"
+git config --global user.email "francoezequielmassaccesi@gmail.com"
